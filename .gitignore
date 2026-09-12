@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data files (too large for GitHub)
+data/*.csv.gz
+data/*.csv
