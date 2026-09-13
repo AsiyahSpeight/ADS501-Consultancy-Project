@@ -220,3 +220,5 @@ __marimo__/
 # Raw data files (too large for GitHub)
 data/*.csv.gz
 data/*.csv
+
+notebooks/Cell output*.csv
