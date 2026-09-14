@@ -222,3 +222,5 @@ data/*.csv.gz
 data/*.csv
 
 notebooks/Cell output*.csv
+
+data/*.zip
